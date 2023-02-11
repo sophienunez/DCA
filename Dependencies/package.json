@@ -1,0 +1,16 @@
+{
+  "name": "dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fraction.js": "^4.2.0",
+    "to-words": "^3.4.0"
+  }
+}
