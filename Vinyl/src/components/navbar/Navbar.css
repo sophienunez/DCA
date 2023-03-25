@@ -1,0 +1,12 @@
+.icon {
+    width: 45px;
+}
+
+img{
+    width: 116px;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+}

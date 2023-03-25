@@ -1,0 +1,9 @@
+span{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cover{
+    width: 263px;
+    border-radius: 19px;
+}
